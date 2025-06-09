@@ -4,7 +4,7 @@ const cursos = [
   "Auto-Falante Lucrativo",
   "Bora Vender em Dólar",
   "CapCut Hacker",
-  "Clube de Marketing Digital",
+  "CapCut PC",
   "Como Criar Produtos Digitais",
   "Comunicação Magnética",
   "Copywriting Afroimpactante",
