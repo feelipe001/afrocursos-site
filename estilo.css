@@ -19,7 +19,7 @@ h1 {
 }
 .curso {
   width: 100vw;
-  margin-bottom: 30px; /* Espaçamento aumentado */
+  margin-bottom: 30px;
   text-align: center;
 }
 .curso img {
@@ -27,6 +27,8 @@ h1 {
   display: block;
   object-fit: cover;
   max-height: 320px;
+  border: 4px solid #FFD700; /* Borda nas capas */
+  box-shadow: 0 0 10px rgba(255, 215, 0, 0.4); /* leve destaque */
 }
 .curso h2 {
   padding: 10px 8px;
@@ -57,8 +59,10 @@ h1 {
   text-decoration: none;
   font-weight: bold;
   border-radius: 4px;
+  border: 2px solid #FFD700;
 }
 .pagination a.active {
   background-color: #FFD700;
   color: #000;
+  border: 2px solid #FFD700;
 }
