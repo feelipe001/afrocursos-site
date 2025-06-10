@@ -74,30 +74,32 @@ h1 {
     font-size: 1.1rem;
 }
 
-/* Ajustes para mobile refinados */
+/* FULLSCREEN no mobile */
 @media (max-width: 600px) {
     .curso {
+        width: 100vw;
+        padding: 0;
+        margin: 0;
         border-radius: 0;
-        padding: 20px 12px;
-        margin: 18px auto;
     }
 
     .curso img {
-        width: 100%;
-        max-width: 100%;
+        width: 100vw;
+        max-width: 100vw;
         max-height: 320px;
         object-fit: cover;
-        border-radius: 8px;
+        border-radius: 0;
     }
 
     .curso h2 {
         font-size: 1.3rem;
-        margin: 12px 0 8px;
+        margin: 12px 12px 6px;
     }
 
     .btn {
-        width: 100%;
-        padding: 14px 0;
+        width: 100vw;
+        border-radius: 0;
         font-size: 1.1rem;
+        padding: 14px 0;
     }
 }
