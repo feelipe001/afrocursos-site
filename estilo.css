@@ -11,14 +11,14 @@ h1 {
     text-align: center;
     color: #FFD700;
     padding: 20px 10px;
-    font-size: 1.8rem;
+    font-size: 2rem;
 }
 
 .curso {
     max-width: 600px;
     margin: 20px auto;
     background: #1a1a1a;
-    padding: 20px;
+    padding: 25px;
     border-radius: 10px;
     text-align: center;
     box-sizing: border-box;
@@ -33,20 +33,21 @@ h1 {
 }
 
 .curso h2 {
-    margin: 15px 0;
-    font-size: 1.2rem;
+    margin: 20px 0 15px;
+    font-size: 1.5rem;
 }
 
 .btn {
     background: #FFD700;
     color: #000;
-    padding: 10px 20px;
+    padding: 14px 25px;
     border: none;
     border-radius: 5px;
     text-decoration: none;
     font-weight: bold;
     display: inline-block;
     margin-top: 10px;
+    font-size: 1rem;
 }
 
 .pagination {
@@ -56,32 +57,34 @@ h1 {
 
 .pagination a {
     margin: 0 5px;
-    padding: 8px 12px;
+    padding: 10px 16px;
     background: #FFD700;
     color: #000;
     text-decoration: none;
     border-radius: 5px;
     font-weight: bold;
+    font-size: 1rem;
 }
 
 /* Responsividade */
 @media (max-width: 600px) {
     body {
-        font-size: 14px;
+        font-size: 16px;
         padding: 0 10px;
     }
 
     .curso {
-        padding: 15px 10px;
-        margin: 15px auto;
+        padding: 20px 15px;
+        margin: 18px auto;
     }
 
     .curso h2 {
-        font-size: 1rem;
+        font-size: 1.3rem;
     }
 
     .btn {
         width: 100%;
-        padding: 12px 0;
+        padding: 16px 0;
+        font-size: 1.1rem;
     }
 }
