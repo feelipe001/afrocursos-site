@@ -59,7 +59,7 @@ cursos.forEach(nome => {
   card.innerHTML = `
     <img src="imagens/cursos/${nome}.jpg" alt="${nome}" class="curso-img">
     <h3 class="curso-titulo">${nome}</h3>
-    <a href="https://t.me/afrocursos_bot" target="_blank" class="botao-comprar">Acessar via Telegram</a>
+    <a href="https://t.me/afrocursos_bot" target="_blank" class="botao-comprar">Informação do curso</a>
   `;
   container.appendChild(card);
 });
