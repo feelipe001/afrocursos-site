@@ -1,0 +1,67 @@
+
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Curso de Inglês Completo Ci Locatelli 2.0</title>
+  <link rel="stylesheet" href="../estilo.css">
+  <style>
+    body { background: #111; color: #fff; font-family: sans-serif; padding: 20px; }
+    .container { max-width: 700px; margin: auto; }
+    img { width: 100%; border-radius: 12px; margin-bottom: 20px; }
+    h1 { font-size: 1.6rem; color: #ffc107; }
+    p { font-size: 1rem; margin-bottom: 15px; line-height: 1.6; }
+    .info-box {
+        background: #222;
+        padding: 15px;
+        border-radius: 8px;
+        margin-top: 20px;
+    }
+    .info-box strong { display: block; margin-bottom: 5px; color: #ffc107; }
+    .btn {
+        background: #ffc107;
+        color: #000;
+        font-weight: bold;
+        text-align: center;
+        display: block;
+        padding: 15px;
+        border-radius: 8px;
+        margin-top: 30px;
+        text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <img src="../imagens/cursos/Curso de Inglês Completo Ci Locatelli 2.0.jpg" alt="Curso de Inglês Completo Ci Locatelli 2.0">
+    <h1>Curso de Inglês Completo Ci Locatelli 2.0</h1>
+    <p>Nosso curso foi totalmente regravado e atualizado, tornando-o mais interativo e moderno.
+
+Curso completo, para você que deseja ingressar no aprendizado de uma nova língua.
+
+-80 vídeo aulas explicativas com toda a matéria.
+
+-80 vídeo aulas com Simulações de diálogos que encontramos no dia a dia.
+
+-80 vídeo aulas com a correção comentada dos exercícios.
+
+-450 PDF para baixar com a matéria explicada nos vídeos e exercícios para praticar.
+
+-75 áudios com exercícios para desenvolver a audição.
+
+-75 áudios com diversas frases para baixar, ouvir e repetir onde e quando quiser.
+
+Todo o curso foi projetado de forma prática e intuitiva, fazendo com que o aluno já crie suas próprias frases em inglês desde a primeira aula.
+
+O método foi testado por mais de 7 anos, com alunos presenciais e por causa do sucesso obtido por eles em alcançar a fluência na língua inglesa, não poderia deixar de ser disponibilizado na internet, para alcançar muitos outros que desejam aprender inglês.</p>
+    <div class="info-box">
+      <strong>Gênero:</strong> Idioma
+      <strong>Formato:</strong> MP4
+      <strong>Idioma:</strong> Português
+      <strong>Tamanho:</strong> 47.25 GB
+    </div>
+    <a href="https://t.me/seugrupo" class="btn">Acessar via Telegram</a>
+  </div>
+</body>
+</html>
